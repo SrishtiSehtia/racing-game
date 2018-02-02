@@ -1,0 +1,24 @@
+.cars {
+  margin-top: 20em;
+}
+
+#car1 {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  margin-bottom: 6em;
+  position: relative;
+  left: 20px;
+}
+
+#car2 {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  position: relative;
+  left: 20px;
+}
+
+.button {
+  text-align: center;
+}
